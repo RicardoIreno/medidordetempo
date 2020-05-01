@@ -1,7 +1,7 @@
 # Medidor de tempo
 
 
-Um simples medidor de tempo gasto em meus desenhos digitais e projetos de desenvolviemnto. 
+Um simples medidor de tempo gasto em meus desenhos digitais e projetos de desenvolviemnto. Combinei a funcionalidade básica de um pomodoro com o acumulo de tempo medido no projeto.
 
 Desenvolvido em Net Framework e WPF. Os dados são salvos em um arquivo JSON, que é lido logo na abertura do programa, e atualizados a cada "stop".
 
