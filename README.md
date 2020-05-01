@@ -6,7 +6,7 @@ Um simples medidor de tempo gasto em meus desenhos digitais e projetos de desenv
 Desenvolvido em Net Framework e WPF. Os dados são salvos em um arquivo JSON, que é lido logo na abertura do programa, e atualizados a cada "stop".
 
 
-![Alt Interface](/relative/path/to/interface.jpg?raw=true )
+![Alt Interface](/relative/path/interface.jpg?raw=true )
 
 **Requisitos**
 Net Framework 4.7.2
