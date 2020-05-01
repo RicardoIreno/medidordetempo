@@ -1,0 +1,16 @@
+﻿<Window x:Class="ViewProject.WindowInclude"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ViewProject"
+        mc:Ignorable="d"
+        Title="WindowInclude" Height="140.149" Width="360">
+    <Grid>
+        <StackPanel HorizontalAlignment="center" Height="88" Margin="0,10,0,0" VerticalAlignment="Top" Width="340">
+            <TextBox Name="txtMeasureName" Text="" Height="23" Width="300" Margin="0,10,0,0" TextWrapping="Wrap" />
+            <Button Name="Incluir"  Content="Incluir" Margin="0,5,0,0" Width="150"  Height="21" Click="btn_Incluir_Click" />
+        </StackPanel>
+
+    </Grid>
+</Window>

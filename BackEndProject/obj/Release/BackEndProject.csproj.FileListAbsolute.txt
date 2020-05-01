@@ -1,0 +1,10 @@
+C:\Users\z\Dropbox\CODE2\MedidorDeTempo\BackEndProject\obj\Release\BackEndProject.csprojAssemblyReference.cache
+C:\Users\z\Dropbox\CODE2\MedidorDeTempo\BackEndProject\obj\Release\BackEndProject.csproj.CoreCompileInputs.cache
+C:\Users\z\Dropbox\CODE2\MedidorDeTempo\BackEndProject\bin\Release\BackEndProject.dll
+C:\Users\z\Dropbox\CODE2\MedidorDeTempo\BackEndProject\bin\Release\BackEndProject.pdb
+C:\Users\z\Dropbox\CODE2\MedidorDeTempo\BackEndProject\bin\Release\Newtonsoft.Json.dll
+C:\Users\z\Dropbox\CODE2\MedidorDeTempo\BackEndProject\bin\Release\Newtonsoft.Json.pdb
+C:\Users\z\Dropbox\CODE2\MedidorDeTempo\BackEndProject\bin\Release\Newtonsoft.Json.xml
+C:\Users\z\Dropbox\CODE2\MedidorDeTempo\BackEndProject\obj\Release\BackEndProject.csproj.CopyComplete
+C:\Users\z\Dropbox\CODE2\MedidorDeTempo\BackEndProject\obj\Release\BackEndProject.dll
+C:\Users\z\Dropbox\CODE2\MedidorDeTempo\BackEndProject\obj\Release\BackEndProject.pdb
